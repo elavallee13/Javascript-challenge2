@@ -24,6 +24,6 @@ I have used these tools and resources to further the growth of this project.
  - TAs
  - Tutors and other classmates
  
- URL-https://elavallee13.github.io/Javascript-challenge2/
+ URL-https://elavallee13.github.io/Javascript-challenge2/ GitHub REPO - https://github.com/elavallee13/Timed_Quiz_API02
  
  <img width="1019" alt="Screenshot 2023-04-19 at 1 56 56 PM" src="https://user-images.githubusercontent.com/126723001/233173364-b6c0b15a-7d84-493d-bdc6-9ef07275ef33.png">
